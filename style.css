@@ -60,16 +60,6 @@ button{
     margin: 0 auto;
  }
  
-  img {
-   
-   width: 200px;
-   height: 200px;
-   object-fit: cover;
-   margin: 10px;
-   border-radius: 50%;
-   border: 5px solid white;
-   box-shadow: 2px 2px 5px rgba(0 0 0 0.3);
- }
  
  .presente2{
    
